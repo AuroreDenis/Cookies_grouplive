@@ -1,0 +1,9 @@
+tarteaucitron:
+  version: 1.6.0
+  css: 
+    theme:
+      css/cookies.css: {}
+  js:
+    js/functions.js: {}
+    tarteaucitron/tarteaucitron.js: {}
+    

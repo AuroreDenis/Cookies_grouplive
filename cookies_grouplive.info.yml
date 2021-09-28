@@ -1,0 +1,5 @@
+name: Cookies Grouplive
+description: "Gestion des cookies par le super administrateur"
+core: 8.x
+package: Grouplive
+type: module
